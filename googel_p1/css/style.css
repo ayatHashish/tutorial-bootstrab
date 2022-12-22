@@ -1,0 +1,55 @@
+/*start navbar*/
+.logo,.logo2{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 30px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: orange;
+    font-weight: 700;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: uppercase;
+}
+.logo{
+    color: white;
+}
+
+.navbar{
+    background-color: #323967; 
+}
+.nav-item{
+    padding-left: 20px;
+}
+/*end navbar*/
+
+/*start second section*/
+.first-heading{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 30px;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    color: black;
+    font-weight: 700;
+    text-decoration: none solid rgb(68, 68, 68);
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 80px;
+}
+.first-heading-span{
+    color: orange;
+}
+label{
+    font-weight: bold;
+}
+.container{
+    width:65%;
+    margin-top: 40px;
+}
+.btn-warning{
+    color: white;
+    font-weight: bold;
+    background-color: orange;
+}
